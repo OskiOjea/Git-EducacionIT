@@ -92,8 +92,25 @@ function sumar (a,b){
 ## Crear un repositorio
     git init
 
+## Areas en GIT
+* Working Directory (WD): Vamos a tener todos los archivos del proyecto
+* Staging Area (SA): Area intermedia de confirmacion de cambios
+* Local REPO (cajita de fotos - "Commits"  que voy haciendo)
 
+---
+## Para saber el estado de los archivos en WD:
 
+    git status
+
+## Para pasar del status WD al SA uso el comando:
+
+    git add
+
+## Para pasar del status de SA al LR(Local REPO) uso el comando:
+    
+    git commit -m "Nombre del commit"
+
+git status
 
 
 
