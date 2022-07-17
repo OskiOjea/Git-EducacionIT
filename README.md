@@ -116,6 +116,12 @@ git status
 
     git diff
 
+## PAra ver fotos o commits del repositorio:
+
+    git log
+    git log --oneline
+    
+
 
 
 
