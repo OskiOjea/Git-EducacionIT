@@ -112,6 +112,9 @@ function sumar (a,b){
 
 git status
 
+## Para ver las diferencias entre el WD y el Local Repo:
+
+    git diff
 
 
 
