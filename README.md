@@ -120,7 +120,21 @@ git status
 
     git log
     git log --oneline
-    
+
+## Configurar en el repo local un remoto:
+
+    git remote add origin <url>
+    git remote add origin https://github.com/OskiOjea/Git-EducacionIT.git
+
+## PAra verificar si tengo el remoto configurado:
+
+    git remote
+    git remote -v
+
+## Subir al repo remoto los archivos del proyecto
+
+    git push -u origin master
+
 
 
 
